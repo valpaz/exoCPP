@@ -9,4 +9,3 @@ int main()
     cout << test.attribut1 << endl;
     return 0;
 }
-

@@ -11,4 +11,3 @@ public:
 };
 
 #endif // CONSTRUCLASSTEST_H
-
